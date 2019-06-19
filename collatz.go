@@ -1,7 +1,7 @@
 package main
 
 // project euler 14
-// see: http://projecteuler.net/index.php?section=problems&id=014
+// see: https://projecteuler.net/problem=14
 
 import (
         "fmt"
