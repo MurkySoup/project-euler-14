@@ -6,14 +6,6 @@ This is a solution to (https://projecteuler.net/problem=14) written in [Go](http
 
 * [Go](https://golang.org/) written by Robert Griesemer, Rob Pike and Ken Thompson
 
-## Contributing
-
-Please contact the Security Enginnering Team for details on our code of conduct, and the process for submitting pull requests to our projects.
-
-## Authors
-
-* **Rick Pelletier** - [Gannett Co., Inc. (USA Today Network)](https://www.usatoday.com/)
-
 ## License
 
 This project is released under the following license:
